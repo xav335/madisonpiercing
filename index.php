@@ -17,14 +17,14 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 		
 	</head>
-	<body>
+	<body class="page-index">
 		
 		<main>
 			
 			<? include_once( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/top.php" ); ?>
 			
 			<div class="row fullwidth fullscreen">
-		
+		          
 				<!-- Slider -->
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
@@ -36,6 +36,10 @@
 					<div class="swiper-pagination"></div>
 				</div>
 				<!-- End Slider -->
+				<div  class="columns large-4 medium-4 small-4">
+					<img src="img/filles.jpg" alt="" />
+				</div>
+				
 				
 			</div>
 			

@@ -35,6 +35,7 @@ strong {color:#ae1729;}
 .page-galerie {background:url('../img/slider-homepage-03.jpg') no-repeat center center fixed;background-size:cover;}
 .page-faq {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
 .page-faq .fullwidth, .page-tarifs .fullwidth {display:block;}
+.page-index {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
 
 header {position:fixed;width:100%;background:url('../img/bg-header.png') transparent no-repeat top right;padding:20px;text-align:right;z-index:5;height:67px;}
 header .logo {position:absolute;left:50%;margin-left:-77px;z-index:100;}

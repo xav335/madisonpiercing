@@ -131,7 +131,7 @@
 								Message
 								<textarea name="message" id="message" placeholder="Votre message"></textarea>
 							</label>
-							<input type="checkbox" name="newsletter" checked />&nbsp;Je souhaite m'inscrire sur la newsletter et ainsi recevoir vos offres spéciales.
+							<input type="checkbox" name="newsletter" checked />&nbsp;Je souhaite m'inscrire sur la newsletter.
 							
 							<button>Envoyer</button>
 						</form>

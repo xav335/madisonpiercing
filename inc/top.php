@@ -18,7 +18,7 @@
 	
 	?>
 	
-	<nav>
+	<nav class="open">
 		<div class="bt-close"></div>
 		<ul>
 			<li><a href="index.php" title="Accueil">Accueil</a></li>

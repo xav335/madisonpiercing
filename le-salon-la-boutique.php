@@ -27,7 +27,7 @@
 		
 				<div class="row contenu">
 					<div class="columns large-5 medium-5 small-12">
-						<img src="img/marie.jpg" alt="Marie" />
+						<img src="img/fillesc.jpg" alt="Marie" />
 					</div>
 					<div class="columns large-7 medium-7 small-12">
 						<div class="textes">
