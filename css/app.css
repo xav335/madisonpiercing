@@ -68,7 +68,7 @@ nav ul ul li:after {content:'';margin-left:0;}
 .row .row.contenu .columns:first-child img {width:100%;}
 .row .row.contenu .textes {padding:30px 40px;}
 
-.row .row.galerie {max-width:850px;margin:0 auto;}
+.row .row.galerie {width:850px;margin:0 auto;}
 .row .row.galerie a {background:#000;width:100%;height:145px;display:block;text-align:center;}
 .row .row.galerie .columns {border:10px solid transparent;}
 .row .row.galerie .columns:hover {border-color:#fff;}
@@ -100,6 +100,27 @@ nav ul ul li:after {content:'';margin-left:0;}
 footer {background:url('../img/bg-footer.png') no-repeat center center;background-size:cover;position:fixed;bottom:0;width:100%;height:95px;z-index:10;}
 footer p {font-size:10px;color:#fff;padding-top:70px;text-align:center;letter-spacing:1px;}
 footer p a {color:#fff;}
+
+.wait { display:none; }
+#div_success {
+	border: 2px solid #178039;
+	margin-bottom: 10px;
+}
+#div_success h3, #div_success p {
+	color: #178039;
+}
+
+#div_erreur {
+	border: 2px solid #A20109;
+	margin-bottom: 10px;
+}
+#div_erreur h3, #div_erreur p {
+	color: #A20109;
+}
+
+#formulaire input.erreur, #formulaire textarea.erreur {
+	border:2px solid #CC3300;
+}
 
 /* RESPONSIVE DESIGN */
 
