@@ -37,7 +37,7 @@ CREATE TABLE `admin` (
 
 LOCK TABLES `admin` WRITE;
 /*!40000 ALTER TABLE `admin` DISABLE KEYS */;
-INSERT INTO `admin` VALUES (1,'espace','espace33','administrateur'),(2,'admin','admin335','ico');
+INSERT INTO `admin` VALUES (1,'madison','madison33','administrateur'),(2,'admin','admin335','ico');
 /*!40000 ALTER TABLE `admin` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -271,7 +271,7 @@ CREATE TABLE `photo` (
   `legende` text NOT NULL,
   `image` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -280,7 +280,7 @@ CREATE TABLE `photo` (
 
 LOCK TABLES `photo` WRITE;
 /*!40000 ALTER TABLE `photo` DISABLE KEYS */;
-INSERT INTO `photo` VALUES (1,2,'L\'autré jour...','c\'était une su\'per légende!','/12105753_1045338115486405_681264-1.jpg'),(2,2,'Madison piercing','','/10425043_1045338192153064_807685-2.jpg'),(3,3,'Renouvellement de nom de domaine','','/12096229_1045339028819647_345104-3.jpg');
+INSERT INTO `photo` VALUES (1,2,'L\'autré jour...','c\'était une su\'per légende!','/12105753_1045338115486405_681264-1.jpg'),(2,2,'Madison piercing','','/10425043_1045338192153064_807685-2.jpg'),(3,3,'Renouvellement de nom de domaine','','/12825360_777706315695858_1129827-3.jpg'),(4,2,'super piercing','sur la levre','/12443442_777707415695748_4434357-.jpg'),(5,2,'Piercing','','/10376938_1045337948819755_209544-.jpg'),(6,2,'Piercing','','/10407733_1045337902153093_412595-.jpg'),(7,2,'nouvelle année','','/11225230_1045337975486419_881107-.jpg'),(8,2,'super piercing','','/12079307_1045339345486282_727561-.jpg'),(9,2,'test de soin','','/11232271_1045338842152999_264295-.jpg'),(10,2,'Pour les fêtes','','/12088390_1045339042152979_277717-.jpg'),(11,2,'Piercing','','/12105753_1045338115486405_681264-.jpg'),(12,2,'super piercing','','/12107791_1045338898819660_573970-.jpg'),(13,2,'Nouvelle réalisation ','','/12108159_1045338042153079_854873-.jpg'),(14,2,'Piercing','','/11047921_1045338272153056_579236-.jpg');
 /*!40000 ALTER TABLE `photo` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -317,4 +317,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2016-05-03  9:19:53
+-- Dump completed on 2016-05-06 15:32:39
