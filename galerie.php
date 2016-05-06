@@ -28,14 +28,14 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 		
 	</head>
-	<body class="page-galerie">
+	<body class="page-faq">
 		
 		<main>
 			
 			<? include_once( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/top.php" ); ?>
 			
 			<div class="row fullwidth fullscreen">
-				
+				<div class="row contenu">
 				<?
 				// ---- Affichage des images pour la catégorie ----------- //
 				if ( !empty( $liste_photo ) ) {
@@ -58,7 +58,7 @@
 				}
 				// ------------------------------------------------------- //
 				?>
-				
+				</div>
 			</div>
 			
 			<? include_once( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/footer.php" ); ?>

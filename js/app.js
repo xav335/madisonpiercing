@@ -35,6 +35,12 @@ $(document).ready(function(){
 			$(this).parent().addClass('open');
 		}
 	});
+	$('nav .bt-close').mouseover(function(){
+			$(this).parent().addClass('open');
+	});
+	$('nav ul li').mouseover(function(){
+			$('nav .bt-close').parent().addClass('open');
+	});
 	$('nav ul li a').click(function(){
 		if($(this).parent().hasClass('active')) {
 			$(this).parent().removeClass('active');

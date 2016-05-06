@@ -54,6 +54,15 @@
 			$(document).ready(function(){
 				$('nav ul li:first-child').addClass('active');
 				$('nav ul ul li:first-child').removeClass('active');
+
+				var swiper = new Swiper('.swiper-container', {
+			        pagination: '.swiper-pagination',
+			        paginationClickable: true,
+			        spaceBetween: 30,
+			        centeredSlides: true,
+			        autoplay: 5500,
+			        autoplayDisableOnInteraction: false
+				});
 			});
 			
 		</script>

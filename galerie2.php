@@ -1,55 +1,34 @@
+<?
+	include_once ( $_SERVER[ "DOCUMENT_ROOT" ] . "/admin/classes/utils.php" );
+	require( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/inc.config.php" );
+	
+	$debug = false;
+	
+?>
+
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
 		<meta charset="utf-8" />
-		<meta http-equiv="x-ua-compatible" data-fancybox-legende="ie=edge">
-		<meta name="viewport" data-fancybox-legende="width=device-width, initial-scale=1.0" />
-		<title>Madison Piercing | Galerie photos</title>
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Madison Piercing | Nos Tarifs</title>
 		
-		<link rel="icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="stylesheet" href="css/foundation.css" />
-		<link rel="stylesheet" href="css/swiper.css" />
-		<link rel="stylesheet" href="js/vendor/fancybox/jquery.fancybox.css?v=2.1.5" />
-		<link rel="stylesheet" href="js/vendor/fancybox/jquery.fancybox-buttons.css?v=1.0.5" />
-		<link rel="stylesheet" href="js/vendor/fancybox/jquery.fancybox-thumbs.css?v=1.0.7" />
-		<link rel="stylesheet" href="css/app.css" />
+		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
+		
 	</head>
-	<body class="page-galerie">
+	<body class="page-faq">
 		
 		<main>
 			
-			<header>
-				<a href="https://www.facebook.com/MadisonPiercing/" target="_blank" class="facebook" title="Suivez-nous sur Facebook">0</a>
-				<div class="logo"><img src="img/logo-madison-piercing.png" alt="logo Madison Piercing" title="Madison Piercing" /></div>
-			</header>
-			
-			<nav>
-				<div class="bt-close"></div>
-				<ul>
-					<li><a href="index.html" title="Accueil">Accueil</a></li>
-					<li><a href="le-salon-la-boutique.html" title="Le Salon / La Boutique">Le Salon / La Boutique</a></li>
-					<li><a href="l-hygiene.html" title="L'Hygiène">L'Hygiène</a></li>
-					<li>
-						<a title="Galerie Photo">Galerie Photo</a>
-						<ul>
-							<li><a href="galerie.html" title="Galerie Photo">Thème #1</a></li>
-							<li><a href="galerie-2.html" title="Galerie Photo">Thème #2</a></li>
-						</ul>
-					</li>
-					<li><a href="nos-tarifs.html" title="Nos Tarifs">Nos Tarifs</a></li>
-					<li><a href="faq.html" title="FAQ">FAQ</a></li>
-					<li><a href="liens.html" title="Liens">Liens</a></li>
-					<li><a href="plan-acces.html" title="Plan d'Accès">Plan d'Accès</a></li>
-					<li><a href="contact.html" title="Contact">Contact</a></li>
-				</ul>
-			</nav>
+			<? include_once( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/top.php" ); ?>
 			
 			<div class="row fullwidth fullscreen">
-		<div class="columns large-12">
-				<div class="row galerie collapse">
-					<div class="columns large-3 medium-4 small-6">
-						<a class="fancybox" href="img/photos/1011583_1045339365486280_8237458541906613998_n.jpg" data-fancybox-group="gallery" title="test" data-fancybox-legende="Test de légende 1"><span>Titre #1</span><img src="img/photos/1011583_1045339365486280_8237458541906613998_n.jpg" alt="1011583_1045339365486280_8237458541906613998_n" /></a>
-					</div>
+		
+				<div class="row contenu">
+					
+				 <div class="row galerie collapse">
+					
 					<div class="columns large-3 medium-4 small-6">
 						<a class="fancybox" href="img/photos/10003941_1045338828819667_3005720233043960879_n.jpg" data-fancybox-group="gallery" title="test 2" data-fancybox-legende="Test de légende 2"><span>Titre #2</span><img src="img/photos/10003941_1045338828819667_3005720233043960879_n.jpg" alt="10003941_1045338828819667_3005720233043960879_n" /></a>
 					</div>
@@ -93,34 +72,25 @@
 						<a class="fancybox" href="img/photos/11224421_1061314653888751_3804189768569869206_n.jpg" data-fancybox-group="gallery" title="test 12" data-fancybox-legende="Test de légende 12"><span>Titre #12</span><img src="img/photos/11224421_1061314653888751_3804189768569869206_n.jpg" alt="11224421_1061314653888751_3804189768569869206_n" /></a>
 					</div>
 				</div>
-			</div>	
+			</div>
+				
 			</div>
 			
-			<footer>
-				<p><a href="mentions-legales.html">mentions légales</a> | ©2016 Madison Piercing | powered by <a href="http://www.iconeo.fr" target="_blank">iconeo</a></p>
-			</footer>
-		
+			<? include_once( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/footer.php" ); ?>
+			
 		</main>
 		
-		<!-- Scripts -->
-		<script src="js/vendor/jquery.min.js"></script>
-		<script src="js/vendor/what-input.min.js"></script>
-		<script src="js/vendor/swiper/swiper.min.js"></script>
-		<script src="js/foundation.min.js"></script>
-		<script src="js/vendor/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
-		<script src="js/vendor/fancybox/jquery.fancybox.js?v=2.1.5"></script>
-		<script src="js/vendor/fancybox/jquery.fancybox-buttons.js?v=1.0.5"></script>
-		<script src="js/vendor/fancybox/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-		<script src="js/vendor/fancybox/jquery.fancybox-media.js?v=1.0.6"></script>
-		<script src="js/app.js"></script>
+		
+		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/scripts.php" ); ?>
+		
 		<script>
+			
 			$(document).ready(function(){
-				$('nav ul li:nth-child(4)').addClass('active');
-				$('nav ul ul li:nth-child(4)').removeClass('active');
-				$('nav ul ul li:nth-child(1)').addClass('active');
+				$('nav ul li:nth-child(5)').addClass('active');
+				$('nav ul ul li:nth-child(5)').removeClass('active');
 			});
+			
 		</script>
-		<!-- End Scripts -->
 		
 	</body>
 </html>

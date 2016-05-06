@@ -18,11 +18,11 @@
 	
 	?>
 	
-	<nav class="open">
+	<nav>
 		<div class="bt-close"></div>
 		<ul>
 			<li><a href="index.php" title="Accueil">Accueil</a></li>
-			<li><a href="le-salon-la-boutique.php" title="Le Salon / La Boutique">Le Salon / La Boutique</a></li>
+			<li><a href="le-salon-la-boutique.php" title="Le Salon / La Boutique">Le Salon/La Boutique</a></li>
 			<li><a href="l-hygiene.php" title="L'Hygiène">L'Hygiène</a></li>
 			<?
 			// ---- Affichage de la liste des catégories disponibles ------------------------ //
