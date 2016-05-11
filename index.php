@@ -28,17 +28,14 @@
 				<!-- Slider -->
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide" style="background-image:url('img/slider-homepage-01.jpg');"></div>
-						<div class="swiper-slide" style="background-image:url('img/slider-homepage-02.jpg');"></div>
-						<div class="swiper-slide" style="background-image:url('img/slider-homepage-03.jpg');"></div>
+						<div class="swiper-slide" style="background-image:url('img/les-filles.jpg');"></div>
+						<div class="swiper-slide" style="background-image:url('img/nanou.jpg');"></div>
+						<div class="swiper-slide" style="background-image:url('img/delphine.jpg');"></div>
 					</div>
 					<!-- Add Pagination -->
 					<div class="swiper-pagination"></div>
 				</div>
 				<!-- End Slider -->
-				<div  class="columns large-4 medium-4 small-4">
-					<img src="img/filles.jpg" alt="" />
-				</div>
 				
 				
 			</div>
