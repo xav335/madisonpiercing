@@ -114,7 +114,7 @@
 						</p>
 					</div>
 					
-					<div style="padding-left: 80px;" class="columns large-6 medium-6 small-12">
+					<div style="padding-left: 40px;" class="columns large-6 medium-6 small-12">
 						<form id="formulaire" method="post" action="contact.php">
 							<input type="hidden" name="mon_action" id="mon_action" value="" />
 							<input type="hidden" name="as" value="" />
@@ -136,7 +136,7 @@
 							<button>Envoyer</button>
 						</form>
 					</div>
-					<div class="columns large-6 medium-6 small-12">
+					<div style="padding-left: 40px;" class="columns large-6 medium-6 small-12">
 						<h2><br/>MADISON PIERCING</h2>
 						<p>
 							18, rue de Guienne<br/>
