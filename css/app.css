@@ -33,7 +33,7 @@ strong {color:#ae1729;}
 /* Pages */
 .page-salon {background:url('../img/slider-homepage-02.jpg') no-repeat center center fixed;background-size:cover;}
 .page-galerie {background:url('../img/slider-homepage-03.jpg') no-repeat center center fixed;background-size:cover;}
-.page-faq {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
+.page-faq {background:url('../img/slider-homepage-02.jpg') no-repeat center center fixed;background-size:cover;}
 .page-faq .fullwidth, .page-tarifs .fullwidth {display:block;}
 .page-index {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
 
