@@ -65,6 +65,7 @@ nav ul ul li:after {content:'';margin-left:0;}
 .row .row.contenu {max-width:850px;margin:0 auto;background:rgba(255,255,255,0.6);}
 .row .row.contenu .columns {padding:0;}
 .row .row.contenu p {font-size:14px;text-align:justify;line-height:17px;}
+.row .row.contenu li {font-size:14px;text-align:justify;line-height:17px;}
 .row .row.contenu .columns:first-child {text-align:left;}
 .row .row.contenu .columns:first-child img {width:100%;}
 .row .row.contenu .textes {padding:30px 40px;}
@@ -85,6 +86,8 @@ nav ul ul li:after {content:'';margin-left:0;}
 .fancybox-close {background-image:url('../img/fancy-close.png');background-size:100%;}
 
 .page-faq .row .row.contenu, .page-tarifs .row .row.contenu {padding:0 0 70px 0;margin-top:190px;}
+.page-faq form button {width:100%;background:#ae1729;padding:10px;color:#fff;text-transform:uppercase;}
+.page-faq form button:hover {background:#000;}
 
 .page-liens .row .row.contenu .columns, .page-liens .row .row.contenu h2, .page-liens .row .row.contenu p {text-align:center;}
 .page-liens .row .row.contenu p a {color:#000;}

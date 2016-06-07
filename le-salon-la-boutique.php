@@ -31,9 +31,14 @@
 					</div>
 					<div class="columns large-7 medium-7 small-12">
 						<div class="textes">
-							<p>Marie est pierceur professionnelle depuis 1992, elle définit le piercing comme une modification corporelle à visée esthétique nécessitant un certain nombre de précautions hygiéniques et médicales réglementaires et obligatoires.</p>
-							<p>Marie a participé à de nombreuses  conventions  et a fait ses armes entre Montréal et Miami. Avec son époux Michel, ils s'établissent à Bordeaux en 1992 et ouvrent la boutique Michel Tattoo'n Family . Elle travaille tout d'abord à l'étage du studio  avant d'ouvrir la boutique spécialisée Madison Piercing  juste en face. Avec un mélange irremplaçable de théorie et d'expérience, nous  formons une équipe  simple, souriante et efficace qui saura vous mettre en confiance et vous expliquer toutes les étapes nécessaires pour prendre soin de votre piercing</p>
-							<p>Nous travaillons en collaboration avec Hépatite Service et Sida InfoService et nous participons activement à la mise en commun des pratiques professionnelles concernant l'hygiène afin de réaliser une charte commune appuyée sur l'arrêté du 11 mars 2009 publié au journal officiel.</p>
+							<p>Implanté depuis 1992 à Bordeaux, Madison Piercing vous offre un large choix de bijoux originaux et de qualité autant pour la première pose (lorsque vous vous faites percer) que pour les modèles proposés en magasin une fois votre cicatrisation terminée.</p>
+							<p>Très régulièrement vous pourrez découvrir des nouveautés en bijouterie et si vous avez une envie particulière d'un bijou et que vous ne le trouvez pas, nous pourrons voir à vous le commander. </p>
+							<p>"Vous souhaitez offrir un piercing à un proche ? " Ne cherchez plus, Madison a mit en place un système de "bon cadeau" à offrir tout au long de l'année, avec une validité d'un an.</p>
+							<p>Tenue par une équipe de pierceuses professionnelle, motivées et passionnées, nous serons en mesure de vous conseiller et appliquer nos connaissances pour vos différents piercings dans des conditions d'hygiène très strictes et un cadre accueillant</p>
+							<p>Ayant forgées nos armes dans les différentes boutiques dans lesquelles nous avons pu travailler et au grès de nos rencontres; nous prêterons une attention toute particulière à chacune de vos demandes.</p>
+							<p>Chaque piercing que vous ferez chez nous comprendra un suivi rigoureux tout au long de sa cicatrisation.</p>
+							<br>
+							<p>Conformément à l'arrêté du 12 Décembre 2008 et en accord avec l'article R1311-3 du code de la santé publique, les membres de Madison Piercing sont titulaires de la formation "Hygiène et Salubrité" </p>
 						</div>
 					</div>
 				</div>

@@ -28,9 +28,30 @@
 				<div class="row contenu">
 					<div class="columns large-12">
 						<div class="textes">
-							<h1>L'Hygiène et la stérilisation</h1>
-							<p>Les aiguilles utilisées sont <strong>stériles</strong> et à <strong>usage unique</strong>. Tout le matériel qui n'est pas jetable entrant en oeuvre est <strong>nettoyé par ultrasons</strong>, <strong>décontaminé</strong> (trempage bain Hexanios GR+) et stérilisé sous sachet scellé étanche avec une autoclave classe B (cycle Prion). C'est le seul protocole et matériel vous garantissant une <strong>hygiène parfaite</strong>.</p>
-							<p>Les déchets d'activité produits par Madison Piercing sont stockés dans des containers spécifiques et labélisés, ces déchets sont incinérés mensuellement par un organisme compétent.</p>
+							<h1>Hygiène</h1>
+							<p>L'acte du piercing se déroule dans un espace séparé de la salle d'accueil. C'est une cabine fermée et aménagée de tel sorte que le piercing puisse se pratiquer dans des conditions optimales.</p>
+							<p>Les aiguilles utilisées sont stériles et à usage unique. Après usage, elles sont jetées dans des collecteurs d'aiguilles destinés à la destruction.</p>
+							<p>Le bijou de première pose est neuf, décontaminé à froid, nettoyé aux ultrasons puis stérilisé sous sachet (daté et numéroté) en autoclave.</p>
+							<p>La matière du bijou implanté est du titane, il est léger, hypoallergénique (qui provoque peu d'allergie) et bio-compatible (résiste totalement aux fluides corporels)</p>
+							<p>On peut également poser du Bioplast ou PTFE : matières souples et résistantes ; qui servent surtout pour les piercings du tour de bouche.</p>
+							<p>
+								Certains des instruments entrant en contact avec la peau sont réutilisables. Pour cela, ils doivent passer par un protocole complet détaillé ci-dessous :<br>
+								<ul>
+									<li>Décontamination à froid</li>
+									<li>Nettoyage aux ultrasons</li>
+									<li>Stérilisation sous sachet scellé dans un autoclave (cycle prions)</li>
+								</ul>
+							</p>
+							<p>Les emballages stérils ne sont décachetés qu'au dernier moment et ce devant le client.</p>
+							<p>Chaque emballage comportant une date et un numéro de lot est minutieusement conservé et archivé avec la fiche client.</p>
+							<p>Les déchets dit souillés sont stockés dans des containers spécifiques et labélisés, ces déchets sont collectés et incinérés mensuellement par un organisme compétent.</p>
+							<p>
+								Dans la salle de piercing, vous pourrez apercevoir deux types de poubelle.<br>
+								<ul>
+									<li>Une pour les déchets non souillés</li>
+									<li>Une pour les déchets souilles (DASRI)</li>
+								</ul>
+							</p>
 						</div>
 					</div>
 				</div>

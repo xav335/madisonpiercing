@@ -19,6 +19,14 @@
 					            	<li><a href="/admin/photo/liste.php">Modif / Suppr</a></li>
 					          	</ul>
 					        </li>
+					        </li>
+	                        <li class="dropdown">
+					          	<a href="/admin/livre_dor/liste.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Livre d'or <span class="caret"></span></a>
+					          	<ul class="dropdown-menu" role="menu">
+					            	<li><a href="/admin/livre_dor/edition.php">Ajout</a></li>
+					            	<li><a href="/admin/livre_dor/liste.php">Modif / Suppr</a></li>
+					          	</ul>
+					        </li>
 					         <li class="dropdown">
 					          	<a href="contact-list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contacts <span class="caret"></span></a>
 					          	<ul class="dropdown-menu" role="menu">

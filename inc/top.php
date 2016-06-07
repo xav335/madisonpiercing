@@ -46,6 +46,7 @@
 			<li><a href="nos-tarifs.php" title="Nos Tarifs">Nos Tarifs</a></li>
 			<li><a href="faq.php" title="FAQ">FAQ</a></li>
 			<li><a href="liens.php" title="Liens">Liens</a></li>
+			<li><a href="livre-d-or.php" title="Livre d'or">Livre d'or</a></li>
 			<li><a href="plan-acces.php" title="Plan d'Accès">Plan d'Accès</a></li>
 			<li><a href="contact.php" title="Contact">Contact</a></li>
 		</ul>

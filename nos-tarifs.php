@@ -28,115 +28,93 @@
 				<div class="row contenu">
 					<div class="columns large-12">
 						<div class="textes">
-							<h1>Nos tarifs</h1>
-							<p>Ces tarifs incluent le bijou, l’acte, l’explication des soins et le suivi afin d'avoir une bonne cicatrisation.</p>
-							<p>Nos bijoux sont en Titane, Acier chirurgical (nouvelles normes EU) ou en Bioplast.</p>
+							<h1>NOS TARIFS</h1>
 							<table>
-								<thead>
-									<tr>
-										<th colspan="2">Prestation</td>
-										<th>Prix</td>
-									</tr>
-								</thead>
 								<tbody>
 									<tr>
-										<td rowspan="3">Nombril</td>
-										<td>Avec un anneau</td>
-									<td>30€</td>
+										<td>Arcade</td>
+										<td>à partir de 30 euros</td>
 									</tr>
 									<tr>
-										<td>Avec une banane 1 brillant</td>
-										<td>40€</td>
-									</tr>
-									<tr>
-										<td>Avec 2 bananes 2 brillants</td>
-										<td>45€</td>
-									</tr>
-									<tr>
-										<td>Langue</td>
-										<td>Deux bijoux de compris</td>
-										<td>40€</td>
-									</tr>
-									<tr>
-										<td rowspan="2">Labret (tour de bouche)</td>
-										<td>Classique</td>
-										<td>35€</td>
-									</tr>
-									<tr>
-										<td>Avec un petit brillant</td>
-										<td>45€</td>
-									</tr>
-									<tr>
-										<td rowspan="2">Piercing de surface</td>
-										<td>Micro</td>
-										<td>40€</td>
-									</tr>
-									<tr>
-										<td>Surface (nuque, etc...)</td>
-										<td>50€</td>
-									</tr>
-									<tr>
-										<td rowspan="2">Téton</td>
-										<td>Avec un anneau</td>
-										<td>40€</td>
-									</tr>
-									<tr>
-										<td>Avec une barre</td>
-										<td>45€</td>
-									</tr>
-									<tr>
-										<td rowspan="5">Oreille</td>
-										<td>Lobe</td>
-										<td>10€</td>
-									</tr>
-									<tr>
-										<td>Cartilage avec anneau</td>
-										<td>15€</td>
-									</tr>
-									<tr>
-										<td>Cartilage avec barre</td>
-										<td>20€</td>
-									</tr>
-									<tr>
-										<td>Industriel</td>
-										<td>50€</td>
-									</tr>
-									<tr>
-										<td>Tragus</td>
-										<td>30€</td>
-									</tr>
-									<tr>
-										<td>Septum</td>
-										<td>&nbsp;</td>
-										<td>50€</td>
-									</tr>
-									<tr>
-										<td>Nez</td>
-										<td>&nbsp;</td>
-										<td>22€</td>
+										<td>Arcade horizontale</td>
+										<td>à partir de 40 euros</td>
 									</tr>
 									<tr>
 										<td>Bridge</td>
-										<td>&nbsp;</td>
-										<td>50€</td>
+										<td>à partir de 55 euros</td>
 									</tr>
 									<tr>
-										<td>Transdermique microdermal</td>
-										<td>&nbsp;</td>
-										<td>60€</td>
+										<td>Conch (fond d'oreille)</td>
+										<td>à partir de 45 euros</td>
 									</tr>
 									<tr>
-										<td>Arcade tout type de bijou</td>
-										<td>&nbsp;</td>
-										<td>30€</td>
+										<td>Death (repli cartilage)</td>
+										<td>à partir de 45 euros</td>
 									</tr>
 									<tr>
-										<td>Génital</td>
+										<td>Filet (langue ou lèvre)</td>
+										<td>à partir de 50 euros</td>
+									</tr>
+									<tr>
+										<td>Hélix (cartilage)</td>
+										<td>à partir de 15 euros</td>
+									</tr>
+									<tr>
+										<td>Langue</td>
+										<td>à partir de 40 euros</td>
+									</tr>
+									<tr>
+										<td>Lèvre (tour de bouche)</td>
+										<td>à partir de 35 euros</td>
+									</tr>
+									<tr>
+										<td>Lobe (oreille)</td>
+										<td>à partir de 10 euros</td>
+									</tr>
+									<tr>
+										<td>Microdermal (+ de 18 ans)</td>
+										<td>à partir de 60 euros</td>
+									</tr>
+									<tr>
+										<td>Nez</td>
+										<td>à partir de 25 euros</td>
+									</tr>
+									<tr>
+										<td>Nombril</td>
+										<td>à partir de 40 euros</td>
+									</tr>
+									<tr>
+										<td>Septum</td>
+										<td>à partir de 50 euros</td>
+									</tr>
+									<tr>
+										<td>Surface</td>
+										<td>à partir de 45 euros</td>
+									</tr>
+									<tr>
+										<td>Téton</td>
+										<td>à partir de 45 euros</td>
+									</tr>
+									<tr>
+										<td>Tragus / repli cartilage</td>
+										<td>à partir de 30 euros</td>
+									</tr>
+									<tr>
+										<td>Traversée</td>
+										<td>à partir de 50 euros</td>
+									</tr>
+									<tr>
 										<td>&nbsp;</td>
-										<td>Nous consulter</td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td>Génitaux</td>
+										<td>nous consulter</td>
 									</tr>
 								</tbody>
 							</table>
+							
+							<p>Tous nos tarifs sont piercing et bijou compris.</p>
 						</div>
 					</div>
 				</div>
