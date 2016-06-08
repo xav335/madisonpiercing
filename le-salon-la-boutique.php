@@ -34,7 +34,7 @@
 							<p>Implanté depuis 1992 à Bordeaux, Madison Piercing vous offre un large choix de bijoux originaux et de qualité autant pour la première pose (lorsque vous vous faites percer) que pour les modèles proposés en magasin une fois votre cicatrisation terminée.</p>
 							<p>Très régulièrement vous pourrez découvrir des nouveautés en bijouterie et si vous avez une envie particulière d'un bijou et que vous ne le trouvez pas, nous pourrons voir à vous le commander. </p>
 							<p>"Vous souhaitez offrir un piercing à un proche ? " Ne cherchez plus, Madison a mit en place un système de "bon cadeau" à offrir tout au long de l'année, avec une validité d'un an.</p>
-							<p>Tenue par une équipe de pierceuses professionnelle, motivées et passionnées, nous serons en mesure de vous conseiller et appliquer nos connaissances pour vos différents piercings dans des conditions d'hygiène très strictes et un cadre accueillant</p>
+							<p>Tenue par une équipe de pierceuses professionnelles, motivées et passionnées, nous serons en mesure de vous conseiller et appliquer nos connaissances pour vos différents piercings dans des conditions d'hygiène très strictes et un cadre accueillant</p>
 							<p>Ayant forgées nos armes dans les différentes boutiques dans lesquelles nous avons pu travailler et au grès de nos rencontres; nous prêterons une attention toute particulière à chacune de vos demandes.</p>
 							<p>Chaque piercing que vous ferez chez nous comprendra un suivi rigoureux tout au long de sa cicatrisation.</p>
 							<br>

@@ -12,7 +12,7 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Madison Piercing</title>
+		<title>Madison Piercing - Atelier de piercing bordeaux - Bijoux</title>
 		
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 		

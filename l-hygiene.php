@@ -42,14 +42,14 @@
 									<li>Stérilisation sous sachet scellé dans un autoclave (cycle prions)</li>
 								</ul>
 							</p>
-							<p>Les emballages stérils ne sont décachetés qu'au dernier moment et ce devant le client.</p>
+							<p>Les emballages stériles ne sont décachetés qu'au dernier moment et ce devant le client.</p>
 							<p>Chaque emballage comportant une date et un numéro de lot est minutieusement conservé et archivé avec la fiche client.</p>
 							<p>Les déchets dit souillés sont stockés dans des containers spécifiques et labélisés, ces déchets sont collectés et incinérés mensuellement par un organisme compétent.</p>
 							<p>
 								Dans la salle de piercing, vous pourrez apercevoir deux types de poubelle.<br>
 								<ul>
 									<li>Une pour les déchets non souillés</li>
-									<li>Une pour les déchets souilles (DASRI)</li>
+									<li>Une pour les déchets souillés (DASRI)</li>
 								</ul>
 							</p>
 						</div>

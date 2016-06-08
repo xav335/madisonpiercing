@@ -42,7 +42,7 @@
 					// ---- Image NORMALE
 					$destination = $_SERVER[ "DOCUMENT_ROOT" ] . '/photos/photo/normale' . $filenameDest;
 					if ( $debug ) echo "Destination : " . $destination . "<br>";
-					$imageManager->imageResize( $source, $destination, 960, 960, ZEBRA_IMAGE_CROP_CENTER );
+					$imageManager->imageResize( $source, $destination, 800, 960, ZEBRA_IMAGE_CROP_CENTER );
 					
 					// ---- Image VIGNETTE
 					$destination = $_SERVER[ "DOCUMENT_ROOT" ] . '/photos/photo/thumbs' . $filenameDest;
@@ -55,13 +55,13 @@
 			$imageManager =null;
 			// ---------------------------------------------- //
 			
-			// ---- Traitement des données ------------------ //
+			// ---- Traitement des donnï¿½es ------------------ //
 			if ( 1 == 1 ) {
 				$id = $photo->gererDonnees( $_POST, $debug );
 			}
 			// ---------------------------------------------- //
 			
-			// ---- Redirection après traitement ------------ //
+			// ---- Redirection aprï¿½s traitement ------------ //
 			if ( 1 == 1 ) {
 				
 				// ---- Modification... ---- //

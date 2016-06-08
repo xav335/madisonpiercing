@@ -31,16 +31,16 @@
 							<h1>FAQ Madison Piercing</h1>
 							
 							<h2>Est-ce que ça fait mal ?</h2>
-							<p>Beaucoup moins que ce que l'on s'imagine. L'acte du perçage est très court 2-3 secondes tout au plus. Dites-vous que vous aurez une sensation de piqure brève mais rien qui vous empêcherez par exemple de vous refaire percer :)</p>
+							<p>Beaucoup moins que ce que l'on s'imagine. L'acte du perçage est très court 2-3 secondes tout au plus. Dites-vous que vous aurez une sensation de piqure brève mais rien qui vous empêcherait par exemple de vous refaire percer :)</p>
 							
 							<h2>Peut-on anesthésier ?</h2>
-							<p>Non, les anesthésies ne peuvent être pratiquées que par un professionnel du corps médical compétent en la matière. En ce qui concerne les crèmes et autres spray dit anesthésiants, ils n'ont pas une réelle efficacité.</p>
+							<p>Non, les anesthésies ne peuvent être pratiquées que par un professionnel du corps médical compétent en la matière. En ce qui concerne les crèmes et autres spray dit anesthésiants, ils n'ont pas de réelle efficacité.</p>
 							
 							<h2>Est-ce que mon piercing peut s'infecter ?</h2>
 							<p>Un piercing est une plaie et comme toute plaie celle-ci peut s'infecter si vous n'y apportez pas les soins et l'attention nécessaire. Il vous faudra le désinfecter pendant une période d'environ 1 mois le matin et le soir, ainsi que respecter les consignes que votre perceur vous aura au préalable communiqué. En cas de doute, sur une sensation, une rougeur ou une gêne, il vous sera conseillé de venir nous le montrer.</p>
 							
 							<h2>Combien de temps dois-je garder mon piercing ?</h2>
-							<p>La cicatrisation d'un piercing est variable en fonction de l'emplacement ( tableau de cicatrisation à la fin du FAQ), des coups et accrochages que celui-ci a pu prendre au cours des premiers temps, de l'état générale de la personne percé. Nous vous conseillons vivement de venir nous voir avant le premier changement afin que nous puissions évaluer si la cicatrisation est terminée ou pas ainsi que de vous le changer une première fois dans des conditions optimales pour vous expliquer la marche à suivre. Ne tentez pas surtout pas de retirer votre piercing avant que celui-ci soit complétement cicatrisé, vous pourriez ne pas réussir à le remettre, vous blesser ou autres désagréments. </p>
+							<p>La cicatrisation d'un piercing est variable en fonction de l'emplacement ( tableau de cicatrisation à la fin du FAQ), des coups et accrochages que celui-ci a pu prendre au cours des premiers temps, de l'état générale de la personne percé. Nous vous conseillons vivement de venir nous voir avant le premier changement afin que nous puissions évaluer si la cicatrisation est terminée ou pas ainsi que de vous le changer une première fois dans des conditions optimales pour vous expliquer la marche à suivre. Ne tentez surtout pas de retirer votre piercing avant que celui-ci soit complétement cicatrisé, vous pourriez ne pas réussir à le remettre, vous blesser ou autres désagréments. </p>
 							
 							<h2>Je suis allergique à beaucoup de choses. Puis-je me faire percer ?</h2>
 							<p>
@@ -67,7 +67,7 @@
 								</ul>
 							</p>
 							
-							<h2>Si je tombe enceinte, suis-je obligée de retirer mon piercing ?</h2>
+							<h2>Si je tombe enceinte, suis-je obligée de retirer mon piercing de nombril ?</h2>
 							<p>Tout dépendra de la forme que votre nombril prendra au cours des mois. Si celui-ci reste creux, il suffira de changer le bijou pour un « spécial grossesse » (barre plus longue et matière Bioplast)) qui ne dérangera pas non plus lors des échographies. Par contre, si votre nombril ressort, il est préférable de retirer le bijou.</p>
 							
 							<h2>Pourquoi le perçage au pistolet est déconseillé ?</h2>

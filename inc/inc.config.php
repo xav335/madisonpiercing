@@ -35,7 +35,7 @@
 	define( "DBUSER",	$user );
 	define( "DBPASSWD", $mdp );
 	
-	define( "MAILCUSTOMER", 	"xxx" );
+	define( "MAILCUSTOMER", 	"contact@madisonpiercing.fr" );
 	define( "MAILNAMECUSTOMER", "Madison Piercing" );
 	define( "URLSITEDEFAULT", 	"http://www.madisonpiercing.com/" );
 	define( "FACEBOOK_LINK", 	"https://www.facebook.com/MadisonPiercing/" );
@@ -44,6 +44,6 @@
 	// ---- Mail d'envoi
 	define( "MAIL_TEST", 	"fjavi.gonzalez@gmail.com" ); 	// Si rempli alors cette valeur sera utilisée pour les différents envois de mails
 	//define( "MAIL_TEST", 	"web-yBQzxd@mail-tester.com" ); // Tester la qualité du mail (https://www.mail-tester.com)
-	define( "MAIL_CONTACT", "fjavi.gonzalez@gmail.com" );
+	define( "MAIL_CONTACT", "fjavi.gonzalez@gmail.com" ); //contact@madisonpiercing.fr
 	define( "MAIL_BCC", 	"xav335@hotmail.com,xavier.gonzalez@laposte.net,jav_gonz@yahoo.com" );
 ?>
