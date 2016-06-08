@@ -61,7 +61,6 @@
 			$message .= "Nom : <b>" . $_POST[ "nom" ] . "</b><br>";
 			$message .= "E-mail : <b>" . $_POST[ "email" ] . "</b><br>";
 			$message .= "Message : <br><i>" . nl2br( $_POST[ "message" ] ) . "</i><br><br>";
-			$message .= "Cordialement.";
 			$message = utf8_decode( $message );
 			if ( $debug ) echo $message;
 			
