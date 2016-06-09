@@ -21,9 +21,9 @@
 	<nav>
 		<div class="bt-close"></div>
 		<ul>
-			<li><a href="index.php" title="Accueil">Accueil</a></li>
-			<li><a href="le-salon-la-boutique.php" title="Le Salon / La Boutique">Le Salon/La Boutique</a></li>
-			<li><a href="l-hygiene.php" title="L'Hygiène">L'Hygiène</a></li>
+			<li onclick="location.href='index.php';"><a href="index.php" title="Accueil">Accueil</a></li>
+			<li onclick="location.href='le-salon-la-boutique.php';"><a href="le-salon-la-boutique.php" title="Le Salon / La Boutique">Le Salon/La Boutique</a></li>
+			<li onclick="location.href='l-hygiene.php';"><a href="l-hygiene.php" title="L'Hygiène">L'Hygiène</a></li>
 			<?
 			// ---- Affichage de la liste des catégories disponibles ------------------------ //
 			if ( !empty( $__liste_categorie ) ) {
@@ -35,7 +35,7 @@
 					$id = $_categorie[ "id" ];
 					$titre = $_categorie[ "titre" ];
 					
-					echo "		<li id='cat_" . $id . "'><a href='galerie.php?id=" . $id . "' title='Galerie Photo'>" . $titre . "</a></li>\n";
+					echo "		<li onclick=\"location.href='galerie.php?id=" . $id . "';\" id='cat_" . $id . "'><a href='galerie.php?id=" . $id . "' title='Galerie Photo'>" . $titre . "</a></li>\n";
 				}
 						
 				echo "	</ul>\n";
@@ -43,11 +43,11 @@
 			}
 			// ------------------------------------------------------------------------------ //
 			?>
-			<li><a href="nos-tarifs.php" title="Nos Tarifs">Nos Tarifs</a></li>
-			<li><a href="faq.php" title="FAQ">FAQ</a></li>
-			<!-- <li><a href="liens.php" title="Liens">Liens</a></li>  --> 
-			<li><a href="livre-d-or.php" title="Livre d'or">Livre d'or</a></li>
-			<li><a href="plan-acces.php" title="Plan d'Accès">Plan d'Accès</a></li>
-			<li><a href="contact.php" title="Contact">Contact</a></li>
+			<li onclick="location.href='nos-tarifs.php';"><a href="nos-tarifs.php" title="Nos Tarifs">Nos Tarifs</a></li>
+			<li onclick="location.href='faq.php';"><a href="faq.php" title="FAQ">FAQ</a></li>
+			<!-- <li onclick="location.href='liens.php';"><a href="liens.php" title="Liens">Liens</a></li>  --> 
+			<li onclick="location.href='livre-d-or.php';"><a href="livre-d-or.php" title="Livre d'or">Livre d'or</a></li>
+			<li onclick="location.href='plan-acces.php';"><a href="plan-acces.php" title="Plan d'Accès">Plan d'Accès</a></li>
+			<li onclick="location.href='contact.php';"><a href="contact.php" title="Contact">Contact</a></li>
 		</ul>
 	</nav>
