@@ -56,13 +56,13 @@
 		
 		// ---- Envoi du mail à l'admin -------------- //
 		if ( 1 == 1 ) {
-			$entete = "From:" . MAILNAMECUSTOMER . " <" . MAILCUSTOMER . ">\n";
+			$entete = "From:" . $_POST[ "nom" ] . " <" . $_POST[ "email" ] . ">\n";
 			$entete .= "MIME-version: 1.0\n";
 			$entete .= "Content-type: text/html; charset= iso-8859-1\n";
 			$entete .= "Bcc:" . MAIL_BCC . "\n";
 			//echo "Entete :<br>" . $entete . "<br><br>";
 			
-			$sujet = utf8_decode( "Prise de contact" );
+			$sujet = utf8_decode( "Message pour le livre d or" );
 			
 			//$_to = "franck_langleron@hotmail.com";
 			$_to = ( MAIL_TEST != '' )
@@ -75,7 +75,6 @@
 			$message .= "Nom : <b>" . $_POST[ "nom" ] . " " . $_POST[ "prenom" ] . "</b><br>";
 			$message .= "E-mail : <b>" . $_POST[ "email" ] . "</b><br>";
 			$message .= "Message : <br><i>" . nl2br( $_POST[ "message" ] ) . "</i><br><br>";
-			$message .= "Cordialement.";
 			$message = utf8_decode( $message );
 			if ( $debug ) echo $message;
 			
