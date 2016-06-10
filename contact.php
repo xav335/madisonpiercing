@@ -88,7 +88,7 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 		
 	</head>
-	<body class="page-contact">
+	<body class="page-tarifs">
 		
 		<main>
 			

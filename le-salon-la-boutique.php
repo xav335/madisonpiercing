@@ -17,7 +17,7 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 		
 	</head>
-	<body class="page-salon">
+	<body class="page-faq">
 		
 		<main>
 			

@@ -89,6 +89,10 @@
                     map: map,
                     title: 'Madison Piercing'
                 });
+                marker.addListener('click', function() {
+					 //window.location.href = 'http://tinyurl.com/zsf4gqo';
+					 window.open('https://goo.gl/Z0ljM8','_blank');
+				 });
             }
             
         </script>
