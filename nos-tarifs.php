@@ -41,7 +41,7 @@
 									</tr>
 									<tr>
 										<td>Bridge</td>
-										<td>à partir de 55 euros</td>
+										<td>à partir de 70 euros</td>
 									</tr>
 									<tr>
 										<td>Conch (fond d'oreille)</td>
