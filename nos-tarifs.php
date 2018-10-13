@@ -49,7 +49,7 @@
 									</tr>
 									<tr>
 										<td>Death (repli cartilage)</td>
-										<td>à partir de 45 euros</td>
+										<td>à partir de 50 euros</td>
 									</tr>
 									<tr>
 										<td>Filet (langue ou lèvre)</td>
@@ -69,7 +69,7 @@
 									</tr>
 									<tr>
 										<td>Lobe (oreille)</td>
-										<td>à partir de 10 euros</td>
+										<td>à partir de 15 euros</td>
 									</tr>
 									<tr>
 										<td>Microdermal (+ de 18 ans)</td>

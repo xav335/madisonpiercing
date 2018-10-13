@@ -131,7 +131,7 @@
 								</tr>
 								<tr>
 									<td>Microdermal</td>
-									<td>2 à 4 mois</td>
+									<td>4 mois</td>
 								</tr>
 								<tr>
 									<td>Nez</td>
@@ -143,7 +143,7 @@
 								</tr>
 								<tr>
 									<td>Repli d'oreille, cartilage</td>
-									<td>4 à 6 mois</td>
+									<td>6 à 9 mois</td>
 								</tr>
 								<tr>
 									<td>Septum</td>
