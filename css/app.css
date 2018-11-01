@@ -36,6 +36,7 @@ strong {color:#ae1729;}
 .page-faq {background:url('../img/slider-homepage-02.jpg') no-repeat center center fixed;background-size:cover;}
 .page-faq .fullwidth, .page-tarifs .fullwidth {display:block;}
 .page-index {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
+.page-acces {background:url('../img/madisonplan.jpg') no-repeat center center fixed;background-size:cover;}
 
 header {position:fixed;width:100%;background:url('../img/bg-header.png') transparent no-repeat top right;padding:20px;text-align:right;z-index:5;height:67px;}
 header .logo {position:absolute;left:50%;margin-left:-77px;z-index:100;}
@@ -98,8 +99,10 @@ nav ul ul li:after {content:'';margin-left:0;}
 .page-contact form button:hover {background:#000;}
 
 #map {width:100%;height:100%;}
-.text-map {position:absolute;z-index:100;background:rgba(255,255,255,0.6);padding:20px;left:50%;top:50%;}
+.text-map {position:absolute;z-index:100;background:rgba(255,255,255,0.6);padding:20px;left:50%;top:56%;}
 .text-map p {font-size:14px;line-height:16px;}
+
+.mapclick {position:absolute;z-index:100;background:rgba(255,255,255,0);padding:20px;left:40%;top:36%;width: 500px; height: 500px;}
 
 footer {background:url('../img/bg-footer.png') no-repeat center center;background-size:cover;position:fixed;bottom:0;width:100%;height:95px;z-index:10;}
 footer p {font-size:10px;color:#fff;padding-top:70px;text-align:center;letter-spacing:1px;}
