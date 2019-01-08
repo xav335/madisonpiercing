@@ -142,12 +142,17 @@
 							(côté rue Sainte Catherine)<br/>
 							33000 BORDEAUX<br/>
 							(France)<br/>
-							Tel : 05 56 52 92 01
+							<a href="tel:+33556529201" class="telephone">Tel : 05&nbsp;56&nbsp;52&nbsp;92&nbsp;01</a>
 						</p>
 						<p>
-							Infos Horaires<br/>
-							Dimanche - Lundi : fermé<br/>
-                            Mardi au samedi : de 11h-13h / 14h-19h
+							<strong>Infos Horaires</strong><br/>
+							Dimanche : fermé <br/> Lundi de 14h-19h<br/>
+                            Mardi au Samedi : de 11h-13h / 14h-19h
+						</p>
+						<p>
+						  Vous pouvez venir avec ou sans rendez-vous. 
+						  Toutefois, si vous voulez être sûr d'avoir une place le jour où vous souhaitez venir, 
+						  nous vous conseillons de <a href="tel:+33556529201" class="telephone">nous contacter</a> afin de fixer un rendez-vous.
 						</p>
 					</div>
 				</div>
