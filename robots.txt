@@ -5,7 +5,7 @@
 # Disallow all
 User-agent: *
 Disallow: /factures/
-Disallow: /ajax/
+# Disallow: /ajax/
 Disallow: /admin/
 Disallow: /css/
 Disallow: /fonts/
