@@ -33,10 +33,6 @@
 								<tbody>
 									<tr>
 										<td>Arcade</td>
-										<td>à partir de 30 euros</td>
-									</tr>
-									<tr>
-										<td>Arcade horizontale</td>
 										<td>à partir de 40 euros</td>
 									</tr>
 									<tr>
@@ -57,7 +53,7 @@
 									</tr>
 									<tr>
 										<td>Hélix (cartilage)</td>
-										<td>à partir de 15 euros</td>
+										<td>à partir de 30 euros</td>
 									</tr>
 									<tr>
 										<td>Langue</td>
@@ -69,7 +65,7 @@
 									</tr>
 									<tr>
 										<td>Lobe (oreille)</td>
-										<td>à partir de 15 euros</td>
+										<td>à partir de 25 euros</td>
 									</tr>
 									<tr>
 										<td>Microdermal (+ de 18 ans)</td>
@@ -77,11 +73,11 @@
 									</tr>
 									<tr>
 										<td>Nez</td>
-										<td>à partir de 25 euros</td>
+										<td>à partir de 30 euros</td>
 									</tr>
 									<tr>
 										<td>Nombril</td>
-										<td>à partir de 40 euros</td>
+										<td>à partir de 45 euros</td>
 									</tr>
 									<tr>
 										<td>Septum</td>
@@ -89,7 +85,7 @@
 									</tr>
 									<tr>
 										<td>Surface</td>
-										<td>à partir de 45 euros</td>
+										<td>à partir de 50 euros</td>
 									</tr>
 									<tr>
 										<td>Téton</td>
@@ -97,11 +93,11 @@
 									</tr>
 									<tr>
 										<td>Tragus / repli cartilage</td>
-										<td>à partir de 30 euros</td>
+										<td>à partir de 40 euros</td>
 									</tr>
 									<tr>
 										<td>Traversée</td>
-										<td>à partir de 50 euros</td>
+										<td>à partir de 55 euros</td>
 									</tr>
 									<tr>
 										<td>&nbsp;</td>

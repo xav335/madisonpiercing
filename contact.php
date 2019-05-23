@@ -146,8 +146,8 @@
 						</p>
 						<p>
 							<strong>Infos Horaires</strong><br/>
-							Dimanche : fermé <br/> Lundi de 14h-19h<br/>
-                            Mardi au Samedi : de 11h-13h / 14h-19h
+							 Mardi au Samedi : de 13h à 19h<br/><br/>
+						Dimanche et Lundi: fermé
 						</p>
 						<p>
 						  Vous pouvez venir avec ou sans rendez-vous. 
