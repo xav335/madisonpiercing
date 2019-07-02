@@ -61,7 +61,7 @@
 									</tr>
 									<tr>
 										<td>Lèvre (tour de bouche)</td>
-										<td>à partir de 35 euros</td>
+										<td>à partir de 40 euros</td>
 									</tr>
 									<tr>
 										<td>Lobe (oreille)</td>
