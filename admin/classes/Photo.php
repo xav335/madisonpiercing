@@ -122,7 +122,7 @@ class Photo extends StorageManager {
 	
 		try {
 			
-			// ---- Suppression de la catégorie ---- //
+			// ---- Suppression de la catï¿½gorie ---- //
 			$sql = "DELETE FROM `photo`";
 			$sql .= " WHERE `id`=" . $id . ";";
 			
@@ -189,7 +189,7 @@ class Photo extends StorageManager {
 	
 	public function getListe( $tab=array(), $debug=false ) {
 		$this->dbConnect();
-		
+
 		$champ_souhaite = ( $tab[ "champ" ] != '' ) ? $tab[ "champ" ] : "*";
 		$requete = "SELECT " . $champ_souhaite . " FROM `photo`";
 		

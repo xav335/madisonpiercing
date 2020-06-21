@@ -28,8 +28,7 @@
 				<!-- Slider -->
 				<div class="swiper-container">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide" style="background-image:url('img/delphine.jpg');"></div>
-						<div class="swiper-slide" style="background-image:url('img/delphine2.jpg');"></div>
+						<div class="swiper-slide" style="background-image:url('img/loriane2.jpg');"></div>
 						<div class="swiper-slide" style="background-image:url('img/delphine3.jpg');"></div>
 					</div>
 					<!-- Add Pagination -->

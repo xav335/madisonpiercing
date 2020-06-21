@@ -11,7 +11,8 @@
 	
 	// ---- Liste des catégories ------------------ //
 	if ( 1 == 1 ) {
-		unset( $recherche );
+		//unset( $recherche );
+		$recherche = null;
 		$__liste_categorie = $__categorie->getListe( $recherche, $debug );
 	}
 	// -------------------------------------------- //
