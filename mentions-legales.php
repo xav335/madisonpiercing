@@ -160,7 +160,11 @@
                 					tiers.</p>
                 				<p>Tout lien vers le présent site doit faire l’objet d’une
                 					autorisation expresse et préalable de , lequel se réserve la
-                					possibilité de faire supprimer ce lien à tout moment.</p>
+									possibilité de faire supprimer ce lien à tout moment.</p>
+								<p>
+									<strong>Raison sociale </strong> : REVERSIBLE<br>
+									<strong>SIREN </strong> : 812 250 306<br>
+                				</p>
                 			</div>
                 		</div>
 					</div>

@@ -28,7 +28,7 @@ h1 {text-align:center;color:#717286;}
 h2 {font-size:18px;color:#717286;}
 strong {color:#717286;}
 
-a.telephone {color:#717286; font-weight: bold;}
+a.telephone {color:#010925; font-weight: bold;}
 a.telephone:hover, a.telephone:focus {color:#717286;}
 .fullwidth {max-width:none;display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center;}
 
@@ -40,10 +40,11 @@ a.telephone:hover, a.telephone:focus {color:#717286;}
 .page-index {background:url('../img/bg-faq.jpg') no-repeat center center fixed;background-size:cover;}
 .page-acces {background:url('../img/madisonplan.jpg') no-repeat center center fixed;background-size: cover; cursor: pointer;}
 
-header {position:fixed;width:100%;background:url('../img/bg-header.png') transparent no-repeat top right;padding:20px;text-align:right;z-index:5;height:67px;}
+header {position:fixed;width:100%;background:url('../img/bg-header.png') transparent no-repeat top right;padding:10px;text-align:right;z-index:5;height:67px;}
 header .logo {position:absolute;left:50%;margin-left:-77px;z-index:100;}
 header .facebook {font-family:'autre_planete_icons_socialnRg';font-size:48px;color:#fff;float:right;line-height:20px;}
 header .facebook:hover {color:#717286;}
+
 
 nav {position:fixed;background:rgba(1, 9, 37, 0.9);max-width:35px;z-index:10;height:100%;-webkit-transition:all 700ms ease;-ms-transition:all 700ms ease;-moz-transition:all 700ms ease;transition:all 700ms ease;}
 nav.open {max-width:260px;}

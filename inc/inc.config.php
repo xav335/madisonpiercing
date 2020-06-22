@@ -39,7 +39,7 @@
 	define( "MAILNAMECUSTOMER", "Madison Piercing" );
 	define( "URLSITEDEFAULT", 	"http://www.madisonpiercing.com/" );
 	define( "FACEBOOK_LINK", 	"https://www.facebook.com/MadisonPiercing/" );
-	define( "DAILYMOTION_LINK", "#" );
+	define( "INSTAGRAM_LINK", "https://www.instagram.com/madisonpiercing/" );
 	
 	// ---- Mail d'envoi
 	define( "MAIL_TEST", 	"" ); 	// Si rempli alors cette valeur sera utilisée pour les différents envois de mails

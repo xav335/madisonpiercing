@@ -1,5 +1,6 @@
 	<header>
-		<a href="<?=FACEBOOK_LINK?>" target="_blank" class="facebook" title="Suivez-nous sur Facebook">0</a>
+		<a href="<?=INSTAGRAM_LINK?>" target="_blank"  title="Suivez-nous sur Instagram"><img src="img/insta.png" alt="instagram" /></a>
+		<a href="<?=FACEBOOK_LINK?>" target="_blank"  title="Suivez-nous sur Facebook"><img src="img/fb.png" alt="Facebook" /></a>
 		<div class="logo"><img src="img/logo-madison-piercing.png" alt="logo Madison Piercing" title="Madison Piercing" /></div>
 	</header>
 	
