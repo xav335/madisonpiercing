@@ -44,7 +44,7 @@
 										<td>à partir de 45 euros</td>
 									</tr>
 									<tr>
-										<td>Death (repli cartilage)</td>
+										<td>Daith (repli cartilage)</td>
 										<td>à partir de 50 euros</td>
 									</tr>
 									<tr>
