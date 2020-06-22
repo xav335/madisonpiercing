@@ -27,7 +27,7 @@ $(document).ready(function(){
 		},
 		afterShow: function() {
 			if ('ontouchstart' in document.documentElement){
-				$('.fancybox-nav').css('display','none');
+				$('.fancybox-nav').css('display','true');
 				$('.fancybox-wrap').swipe({
 					swipe : function(event, direction) {
 						if (direction === 'left' || direction === 'up') {
