@@ -103,10 +103,7 @@
 									<td>Type de Piercing</td>
 									<td>Durée de cicatrisation</td>
 								</tr>
-								<tr>
-									<td>&nbsp;</td>
-									<td>&nbsp;</td>
-								</tr>
+								
 								<tr>
 									<td>Arcade</td>
 									<td>8 à 10 semaines</td>

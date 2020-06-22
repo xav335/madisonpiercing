@@ -97,7 +97,7 @@
 			<div class="row fullwidth fullscreen">
 				<div class="row contenu">
 					<div class="columns large-12">
-						<h1>Contactez-nous</h1>
+						<br><h1>Contactez-nous</h1>
 					</div>
 					
 					<div id="div_success" class="large-12 medium-12 small-12 columns <?=$affichage_success?>">

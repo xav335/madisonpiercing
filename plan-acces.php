@@ -49,8 +49,6 @@
 		
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/scripts.php" ); ?>
 		
-
-        https://goo.gl/Z0ljM8
 		<script>
 			
 			$(document).ready(function(){

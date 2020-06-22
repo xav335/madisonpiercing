@@ -26,7 +26,7 @@
 			<div class="row fullwidth fullscreen">
 		
 				<div class="row contenu">
-				   <h1>NOS TARIFS</h1>
+				<br><h1>NOS TARIFS</h1>
 					<div class="columns large-7 medium-7 small-12">
 						<div class="textes">
 							<table>

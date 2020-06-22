@@ -115,7 +115,7 @@
 		
 				<div class="row contenu">
 					<div class="columns large-12">
-						<h1>Livre d'or</h1>
+					<br><h1>Livre d'or</h1>
 					</div>
 					
 					<div class="columns large-12">
