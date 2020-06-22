@@ -25,16 +25,19 @@ $(document).ready(function(){
 				type: 'inside'
 			}
 		},
-		afterShow: function(){
-			$(".fancybox-wrap").swipe( {
-				swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
-					if(direction == "left"){
-						$.fancybox.prev(direction);
-					}else{
-						$.fancybox.prev(direction);
+		afterShow: function() {
+			if ('ontouchstart' in document.documentElement){
+				$('.fancybox-nav').css('display','none');
+				$('.fancybox-wrap').swipe({
+					swipe : function(event, direction) {
+						if (direction === 'left' || direction === 'up') {
+							$.fancybox.prev( direction );
+						} else {
+							$.fancybox.next( direction );
+						}
 					}
-				}
-			});
+				});
+			}
 		} // afterShow  
 	});
 	
