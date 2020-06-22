@@ -24,7 +24,18 @@ $(document).ready(function(){
 			title : {
 				type: 'inside'
 			}
-		}  
+		},
+		afterShow: function(){
+			$(".fancybox-wrap").swipe( {
+				swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
+					if(direction == "left"){
+						$.fancybox.prev(direction);
+					}else{
+						$.fancybox.prev(direction);
+					}
+				}
+			});
+		} // afterShow  
 	});
 	
 	
