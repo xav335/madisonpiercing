@@ -48,7 +48,7 @@
 										<td>à partir de 50 euros</td>
 									</tr>
 									<tr>
-										<td>Filet (langue ou lèvre)</td>
+										<td>Smiley</td>
 										<td>à partir de 50 euros</td>
 									</tr>
 									<tr>

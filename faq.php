@@ -113,7 +113,7 @@
 									<td>3 à 4 mois</td>
 								</tr>
 								<tr>
-									<td>Filet (langue ou lèvre)</td>
+									<td>Smiley</td>
 									<td>4 à 6 semaines</td>
 								</tr>
 								<tr>

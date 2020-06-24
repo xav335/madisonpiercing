@@ -163,7 +163,9 @@
 									possibilité de faire supprimer ce lien à tout moment.</p>
 								<p>
 									<strong>Raison sociale </strong> : REVERSIBLE<br>
-									<strong>SIREN </strong> : 812 250 306<br>
+									<strong>Numero de RCS </strong> : 812 250 360 R.C.S.Bordeaux<br>
+									<strong>Capital social  </strong> : 7 500€<br>
+									<strong>Numero tva intracommunautaire </strong> : FR 59 812250306<br>
                 				</p>
                 			</div>
                 		</div>
