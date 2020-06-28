@@ -113,7 +113,7 @@
 						</div>
 					</div>
 					 <div class="columns large-5 medium-5 small-12"><br><br>
-						<img src="img/cranejaune.jpg" alt="crane jaune" />
+						<img src="img/logoGreg.png" alt="crane jaune" />
 					</div>
 				</div>
 				
