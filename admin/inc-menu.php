@@ -6,7 +6,7 @@
 	                        <span class="icon-bar"></span>
 	                        <span class="icon-bar"></span>
 	                    </button>
-                    <a class="navbar-brand" href="/admin/"><img src="/admin/img/xlogo.png" width="150" alt="Back-Office"/></a>
+                    <a class="navbar-brand" href="/admin/">BACK OFFICE</a>
                 	</div>
                 	<div class="col-md-6 collapse navbar-collapse">
 	           			<ul class="nav navbar-nav">

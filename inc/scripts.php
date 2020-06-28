@@ -8,7 +8,6 @@
 		<script src="/js/vendor/fancybox/jquery.fancybox-buttons.js?v=1.0.5"></script>
 		<script src="/js/vendor/fancybox/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 		<script src="/js/vendor/fancybox/jquery.fancybox-media.js?v=1.0.6"></script>
-		<script src="/js/vendor/fancybox/jquery.touchSwipe.min.js"></script>
 		<script src="/js/app.js"></script>
 	
 	<script>

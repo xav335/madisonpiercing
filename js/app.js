@@ -24,6 +24,7 @@ $(document).ready(function(){
 			title : {
 				type: 'inside'
 			}
+<<<<<<< HEAD
 		}
 		/* ,afterShow: function() {
 			if ('ontouchstart' in document.documentElement){
@@ -39,6 +40,9 @@ $(document).ready(function(){
 				});
 			}
 		}*/ // afterShow  
+=======
+		}  
+>>>>>>> parent of 703ab2a... swipe gallery ?
 	});
 	
 	
