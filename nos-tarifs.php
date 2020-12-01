@@ -27,7 +27,7 @@
 		
 				<div class="row contenu">
 				<br><h1>NOS TARIFS</h1>
-					<div class="columns large-7 medium-7 small-12">
+					<div class="columns large-12 medium-12 small-12">
 						<div class="textes">
 							<table>
 								<tbody>
@@ -112,9 +112,11 @@
 							<p>Tous nos tarifs sont piercing et bijou compris.</p>
 						</div>
 					</div>
-					 <div class="columns large-5 medium-5 small-12"><br><br>
-						<img src="img/logoGreg.png" alt="crane jaune" />
-					</div>
+					<!-- <div class="columns large-5 medium-5 small-12"><br><br>
+						
+ 						<img src="img/logoGreg.png" alt="crane jaune" /> 
+						
+					</div> -->
 				</div>
 				
 			</div>
