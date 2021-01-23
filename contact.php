@@ -151,8 +151,7 @@
 						</p>
 						<p>
 						  Les piercings et toutes les manipulations (débouchages, stretch, retraits de piercings, mises en place de bijoux...) se font sur 
-						  rdv en nous contactant seulement par <a href="tel:+33556529201" class="telephone">téléphone</a> du mardi au samedi à partir de 14h. 
-						  Vous pouvez venir avec ou sans rendez-vous. 
+						  rendez-vous en nous contactant seulement par <a href="tel:+33556529201" class="telephone">téléphone</a> du mardi au samedi à partir de 14h. 
 						</p>
 					</div>
 				</div>
