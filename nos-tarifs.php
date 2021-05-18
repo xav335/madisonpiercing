@@ -68,10 +68,6 @@
 										<td>à partir de 25 euros</td>
 									</tr>
 									<tr>
-										<td>Microdermal (+ de 18 ans)</td>
-										<td>à partir de 60 euros</td>
-									</tr>
-									<tr>
 										<td>Nez</td>
 										<td>à partir de 30 euros</td>
 									</tr>
