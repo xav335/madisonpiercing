@@ -55,10 +55,6 @@
 							<h2>Comment prendre soin de mon nouveau piercing ?</h2>
 							<p>La contamination des plaies par des micros organismes se fait le plus souvent par les mains. C'est pourquoi, il est vraiment important que vous ne touchiez pas votre piercing en dehors du temps de soin, où vos mains auront été préalablement lavées. Une feuille d'explication du protocole de soins, vous sera remise pour chaque piercing. Les baignades dans les lacs, rivières, piscines vous seront déconseillées les 6-8 premières semaines. Les personnes faisant des sports ou activité pouvant entrainer des chocs, des coups ou obligeant la mise en place d'un pansement sur le piercing sont sujettes de rencontrer plus de difficultés.</p>
 							
-							<h2>Faut-il prendre rendez-vous pour se faire percer ?</h2>
-							<p>Vous pouvez venir avec ou sans rendez-vous. 
-						      Toutefois, si vous voulez être sûr d'avoir une place le jour où vous souhaitez venir, 
-						   nous vous conseillons de <a href="tel:+33556529201" class="telephone">nous contacter</a> afin de fixer un rendez-vous.</p>
 						  	
 							<h2>Percez-vous les mineurs ?</h2>
 							<p>

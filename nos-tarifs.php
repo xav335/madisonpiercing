@@ -64,7 +64,7 @@
 										<td>à partir de 40 euros</td>
 									</tr>
 									<tr>
-										<td>Lobe (oreille)</td>
+										<td>Lobe (Par oreille)</td>
 										<td>à partir de 25 euros</td>
 									</tr>
 									<tr>
@@ -105,7 +105,7 @@
 									</tr>
 								</tbody>
 							</table>
-							<p>Tous nos tarifs sont piercing et bijou compris.</p>
+							<p>Tous nos tarifs sont piercing et bijou compris. Les prix évoluent en fonction des bijoux de perçage choisis.</p>
 						</div>
 					</div>
 					<!-- <div class="columns large-5 medium-5 small-12"><br><br>
