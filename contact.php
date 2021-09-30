@@ -148,7 +148,7 @@
 							<strong>Infos Horaires</strong><br/>
 							Lundi : de 11h à 12h et de  14h à 19h<br/>
 							 Mardi au Samedi : de 11h à 13h et de 14h à 19h<br/><br/>
-						Dimanche et Lundi : fermé
+						Dimanche : fermé
 						</p>
 						<p>
 						  Les piercings et toutes les manipulations (débouchages, stretch, retraits de piercings, mises en place de bijoux...) se font sur 
