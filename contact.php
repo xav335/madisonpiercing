@@ -146,12 +146,13 @@
 						</p>
 						<p>
 							<strong>Infos Horaires</strong><br/>
+							Lundi : de 11h à 12h et de  14h à 19h<br/>
 							 Mardi au Samedi : de 11h à 13h et de 14h à 19h<br/><br/>
 						Dimanche et Lundi : fermé
 						</p>
 						<p>
 						  Les piercings et toutes les manipulations (débouchages, stretch, retraits de piercings, mises en place de bijoux...) se font sur 
-						  rendez-vous en nous contactant seulement par <a href="tel:+33556529201" class="telephone">téléphone</a> du mardi au samedi à partir de 14h. 
+						  <b>RENDEZ-VOUS</b> en nous contactant <b>UNIQUEMENT</b> par <a href="tel:+33556529201" class="telephone">téléphone</a> du lundi au samedi à partir de 14h. 
 						</p>
 					</div>
 				</div>

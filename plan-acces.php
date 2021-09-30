@@ -35,8 +35,9 @@
 					</p>
 					<p>
 						Infos Horaires<br/>
+						Lundi : de 11h à 12h et de  14h à 19h<br/>
 						 Mardi au Samedi : de 11h à 13h et 14h - 19h<br/><br/>
-						Dimanche et Lundi: fermé 
+						Dimanche : fermé 
 					</p>
 				</div>
 				<div class="mapclick" onclick="javascript:document.location.href='https://goo.gl/Z0ljM8'"></div>	
