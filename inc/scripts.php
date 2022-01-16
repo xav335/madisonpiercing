@@ -1,5 +1,5 @@
 	
-		<script src="/js/vendor/jquery.min.js"></script>
+		<script src="/js/vendor/jquery.js"></script>
 		<script src="/js/vendor/what-input.min.js"></script>
 		<script src="/js/vendor/swiper/swiper.min.js"></script>
 		<script src="/js/foundation.min.js"></script>
@@ -9,10 +9,13 @@
 		<script src="/js/vendor/fancybox/jquery.fancybox-thumbs.js?v=1.0.7"></script>
 		<script src="/js/vendor/fancybox/jquery.fancybox-media.js?v=1.0.6"></script>
 		<script src="/js/app.js"></script>
+		
 	
 	<script>
 		
 		$(document).ready(function(){
+			 console.log( "ready zzz !" );
+		     $('#myModal').foundation('reveal', 'open');
 			
 			// ---- Validation du formulaire de newsletter -------------- //
 			if ( 1 == 1 ) {
@@ -60,3 +63,4 @@
       ga('send', 'pageview');
 
     </script>
+    
