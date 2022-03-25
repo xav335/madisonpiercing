@@ -31,81 +31,102 @@
 						<div class="textes">
 							<table>
 								<tbody>
+								    <tr>
+										<td><h2>OREILLE</h2></td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td>Lobe</td>
+										<td>de 25€ à 60€</td>
+									</tr>
+									<tr>
+										<td>Hélix</td>
+										<td>de 35€ à 60€</td>
+									</tr>
+									<tr>
+										<td>(Anti)Tragus, Rook, Flat, (Anti)Hélix, Snug </td>
+										<td>de 40€ à 65€</td>
+									</tr>
+									<tr>
+										<td>Conch</td>
+										<td>de 45€ à 60€</td>
+									</tr>
+									<tr>
+										<td>Daith</td>
+										<td>de 50€ à 65€</td>
+									</tr>
+									<tr>
+										<td>Industriel</td>
+										<td>de 55€ à 65€</td>
+									</tr>
+									<tr>
+										<td><h2>VISAGE</h2></td>
+										<td>&nbsp;</td>
+									</tr>
 									<tr>
 										<td>Arcade</td>
-										<td>à partir de 40 euros</td>
+										<td>de 45€ à 50€</td>
 									</tr>
 									<tr>
-										<td>Bridge</td>
-										<td>à partir de 70 euros</td>
-									</tr>
-									<tr>
-										<td>Conch (fond d'oreille)</td>
-										<td>à partir de 45 euros</td>
-									</tr>
-									<tr>
-										<td>Daith (repli cartilage)</td>
-										<td>à partir de 50 euros</td>
-									</tr>
-									<tr>
-										<td>Smiley</td>
-										<td>à partir de 50 euros</td>
-									</tr>
-									<tr>
-										<td>Hélix (cartilage)</td>
-										<td>à partir de 30 euros</td>
-									</tr>
-									<tr>
-										<td>Langue</td>
-										<td>à partir de 40 euros</td>
-									</tr>
-									<tr>
-										<td>Lèvre (tour de bouche)</td>
-										<td>à partir de 40 euros</td>
-									</tr>
-									<tr>
-										<td>Lobe (Par oreille)</td>
-										<td>à partir de 25 euros</td>
-									</tr>
-									<tr>
-										<td>Nez</td>
-										<td>à partir de 30 euros</td>
-									</tr>
-									<tr>
-										<td>Nombril</td>
-										<td>à partir de 45 euros</td>
+										<td>Narine</td>
+										<td>de 30€ à 60€</td>
 									</tr>
 									<tr>
 										<td>Septum</td>
-										<td>à partir de 50 euros</td>
+										<td>de 50€ à 60€</td>
 									</tr>
 									<tr>
-										<td>Surface</td>
-										<td>à partir de 50 euros</td>
+										<td>Bridge</td>
+										<td>de 70€ à 80€</td>
+									</tr>
+									<tr>
+										<td>Bouche</td>
+										<td>de 45€ à 55€</td>
+									</tr>
+									<tr>
+										<td>Labret vertical</td>
+										<td>de 50€ à 55€</td>
+									</tr>
+									<tr>
+										<td>Smiley</td>
+										<td>de 50€ à 60€</td>
+									</tr>
+									<tr>
+										<td>Langue    </td>
+										<td>45€</td>
+									</tr>
+									<tr>
+										<td><h2>CORPS</h2></td>
+										<td>&nbsp;</td>
+									</tr>
+									<tr>
+										<td>Nombril</td>
+										<td>de 45€ à 60€</td>
 									</tr>
 									<tr>
 										<td>Téton</td>
-										<td>à partir de 45 euros</td>
+										<td>de 45€ à 55€</td>
 									</tr>
 									<tr>
-										<td>Tragus / repli cartilage</td>
-										<td>à partir de 40 euros</td>
+										<td>Les deux tétons </td>
+										<td>de 90€ à 110€</td>
 									</tr>
-									<tr>
-										<td>Traversée</td>
-										<td>à partir de 55 euros</td>
-									</tr>
-									<tr>
+									<td><h2>GENITAL</h2></td>
 										<td>&nbsp;</td>
-										<td>&nbsp;</td>
-									</tr>
 									<tr>
-										<td>Génitaux</td>
 										<td>nous consulter</td>
+										<td>au 05 56 52 92 01</td>
 									</tr>
 								</tbody>
 							</table>
-							<p>Tous nos tarifs sont piercing et bijou compris. Les prix évoluent en fonction des bijoux de perçage choisis.</p>
+							<p>* Tous nos tarifs sont piercing et bijou compris. Les prix évoluent en fonction des bijoux de perçage choisis.</p>
+						
+						<h2>PERÇAGE avec BIJOUX HAUT DE GAMME (or 18 carats et titane sophistiqué)  </h2> 
+						 De 75€ à 350€ <br>
+
+                        *Le prix évolue en fonction du bijou et non de la zone de perçage. 
+
+ 
 						</div>
 					</div>
 					<!-- <div class="columns large-5 medium-5 small-12"><br><br>
