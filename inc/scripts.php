@@ -14,8 +14,8 @@
 	<script>
 		
 		$(document).ready(function(){
-			 console.log( "ready zzz !" );
-		     $('#myModal').foundation('reveal', 'open');
+			 //console.log( "ready zzz !" );
+		     //$('#myModal').foundation('reveal', 'open');
 			
 			// ---- Validation du formulaire de newsletter -------------- //
 			if ( 1 == 1 ) {
