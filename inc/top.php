@@ -25,10 +25,10 @@
 		<ul>
 			<li><a href="index.php" title="Accueil">Accueil</a></li>
 			<li><a href="le-salon-la-boutique.php" title="Le Salon">Le Salon</a></li>
-			<li><a href="l-hygiene.php" title="L'Hygiène">L'Hygiène</a></li>
+			<li><a href="https://www.instagram.com/madisonpiercing/" target="_blank" title="Galerie Photo">Galerie Photo</a></li>
 			<?
 			// ---- Affichage de la liste des catégories disponibles ------------------------ //
-			if ( !empty( $__liste_categorie ) ) {
+			/*if ( !empty( $__liste_categorie ) ) {
 				echo "<li>\n";
 				echo "	<a title='Galerie Photo'>Galerie Photo</a>\n";
 				echo "	<ul>\n";
@@ -42,7 +42,7 @@
 						
 				echo "	</ul>\n";
 				echo "</li>\n";
-			}
+			}*/
 			// ------------------------------------------------------------------------------ //
 			?>
 			<li><a href="nos-tarifs.php" title="Nos Tarifs">Nos Tarifs</a></li>
