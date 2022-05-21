@@ -23,12 +23,12 @@
 		<div class="row fullwidth fullscreen">
 		
 		 <div style="text-align: center" id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-        	<h3  id="modalTitle">FERMETURE POUR TRAVAUX</h3><br>
-        	<h2  id="modalTitle">Nous sommes actuellement fermés pour travaux jusqu'à début Avril 2022.</h2>
+        	<h3  id="modalTitle">Madison Piercing - Atelier de piercing bordeaux - Bijoux</h3><br>
+        	<h2  id="modalTitle"></h2>
         	
         	 
-        	<p>En cas d'urgence merci de nous contacter par mail ou sur nos réseaux sociaux notre ligne téléphonique étant coupée.<br></p>
-        	<h2  id="modalTitle">A très bientôt !</h2>
+        	<p></p>
+        	<h2  id="modalTitle"></h2>
         	<a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div> 
 		
