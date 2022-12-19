@@ -29,13 +29,14 @@
 						
 						<div class="columns large-6 medium-6 small-12">
 							<br>
-							<img style="padding: 10px 10px 10px 50px;" src="img/loriane.jpg" alt="Loriane Thiebault" />
+							<img style="padding: 10px 10px 10px 50px;" src="img/imagex0.jpg" alt="Madison piercing" />
 							<div class="textes" style="padding: 10px 10px 10px 50px;">
 								<p>Ayant forgé nos armes dans les différentes boutiques dans lesquelles nous avons pu travailler et au gré de nos rencontres; nous prêterons une attention toute particulière à chacune de vos demandes.</p>
 								<p>Chaque piercing que vous ferez chez nous comprendra un suivi rigoureux tout au long de sa cicatrisation.</p>
 								<br>
 								<p>Conformément à l'arrêté du 12 Décembre 2008 et en accord avec l'article R1311-3 du code de la santé publique, les membres de Madison Piercing sont titulaires de la formation "Hygiène et Salubrité" </p>
 							</div>
+							<img style="padding: 10px 10px 10px 50px;" src="img/imagex1.jpg" alt="Madison piercing" />
 						</div>
 						<div class="columns large-6 medium-6 small-12">
 							<div class="textes" style="padding: 35px 10px 0px 50px;">
@@ -47,8 +48,7 @@
 								<br>
 								<p>Tenue par une équipe de pierceuses professionnelles, motivées et passionnées, nous serons en mesure de vous conseiller et appliquer nos connaissances pour vos différents piercings dans des conditions d'hygiène très strictes et un cadre accueillant</p>
 							</div>
-							
-							<img style="padding: 10px 10px 10px 50px;" src="img/delphine4.jpg" alt="Delphine lebreton" />
+							<img style="padding: 10px 10px 10px 50px;" src="img/imagex2.jpg" alt="Madison piercing" />
 						</div>
 				
 
