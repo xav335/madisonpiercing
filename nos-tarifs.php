@@ -69,7 +69,7 @@
 									</tr>
 									<tr>
 										<td>Narine</td>
-										<td>de 30€ à 60€</td>
+										<td>de 35€ à 70€</td>
 									</tr>
 									<tr>
 										<td>Septum</td>
@@ -94,10 +94,6 @@
 									<tr>
 										<td>Langue    </td>
 										<td>45€</td>
-									</tr>
-                                    <tr>
-										<td>Au niveau du nez</td>
-										<td>de 35€ à 70€</td>
 									</tr>
 									<tr>
 										<td><h2>CORPS</h2></td>
