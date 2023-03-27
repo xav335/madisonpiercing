@@ -95,13 +95,17 @@
 										<td>Langue    </td>
 										<td>45€</td>
 									</tr>
+                                    <tr>
+										<td>Au niveau du nez</td>
+										<td>de 35€ à 70€</td>
+									</tr>
 									<tr>
 										<td><h2>CORPS</h2></td>
 										<td>&nbsp;</td>
 									</tr>
 									<tr>
 										<td>Nombril</td>
-										<td>de 45€ à 60€</td>
+										<td>de 50€ à 60€</td>
 									</tr>
 									<tr>
 										<td>Téton</td>

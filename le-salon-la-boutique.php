@@ -47,8 +47,10 @@
 								<p>"Vous souhaitez offrir un piercing à un proche ? " Ne cherchez plus, Madison a mit en place un système de "bon cadeau" à offrir tout au long de l'année, avec une validité d'un an.</p>
 								<br>
 								<p>Tenue par une équipe de pierceuses professionnelles, motivées et passionnées, nous serons en mesure de vous conseiller et appliquer nos connaissances pour vos différents piercings dans des conditions d'hygiène très strictes et un cadre accueillant</p>
-							</div>
+                                <H2 class="text-center"><b><a href="visite-virtuelle.php">Visite virtuelle du salon</a></b></H2>
+                            </div>
 							<img style="padding: 10px 10px 10px 50px;" src="img/imagex2.jpg" alt="Madison piercing" />
+
 						</div>
 				
 

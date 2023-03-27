@@ -25,6 +25,7 @@
 		<ul>
 			<li><a href="index.php" title="Accueil">Accueil</a></li>
 			<li><a href="le-salon-la-boutique.php" title="Le Salon">Le Salon</a></li>
+            <li><a href="visite-virtuelle.php" title="Le Salon">Visite virtuelle</a></li>
 			<li><a href="https://www.instagram.com/madisonpiercing/" target="_blank" title="Galerie Photo">Galerie Photo</a></li>
 			<?
 			// ---- Affichage de la liste des catégories disponibles ------------------------ //
