@@ -27,6 +27,14 @@
 		
 				<div class="row contenu">
 				<br><h1>NOS TARIFS</h1>
+                    <p>Tous les perçages sont réalisés avec des bijoux stériles en <strong>TITANE</strong> (couleur doré ou argenté) ou en <strong>OR 18 CARATS</strong> (perçage haut de gamme).<br>
+                        <br>
+                        Le prix change en fonction du bijou choisi pour réaliser le perçage.<br>
+                        <br>
+                        Tous nos tarifs sont bijoux et actes de perçage compris.<br>
+                        <br>
+                        Pour un devis précis merci de passer directement au salon pour découvrir tous les bijoux de première pose et chacun de leur prix.<br>
+                    </p>
 					<div class="columns large-12 medium-12 small-12">
 						<div class="textes">
 							<table>
@@ -37,71 +45,110 @@
 									</tr>
 									<tr>
 										<td>Lobe</td>
-										<td>de 25€ à 60€</td>
+                                        <td>de 25€ à 400€ <i>(gamme en or 18k disponible)</i></td>
 									</tr>
+                                    <tr>
+                                        <td>Les deux lobes<br><br></td>
+                                        <td>de 50€ à 800€ <i>(gamme en or 18k disponible)</i><br><br></td>
+                                    </tr>
 									<tr>
 										<td>Hélix</td>
-										<td>de 35€ à 60€</td>
+										<td>de 35€ à 400€ <i>(gamme en or 18k disponible)</i></td>
+									</tr>
+                                    <tr>
+                                        <td>Flat</td>
+                                        <td>de 40€ à 400€ <i>(gamme en or 18k disponible)</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Anti-hélix<br><br></td>
+                                        <td>de 40€ à 55€ <i>(gamme en or 18k disponible)</i><br><br></td>
+                                    </tr>
+									<tr>
+										<td>Tragus</td>
+										<td>de 40€ à 400€ <i>(gamme en or 18k disponible)</i></td>
 									</tr>
 									<tr>
-										<td>(Anti)Tragus, Rook, Flat, (Anti)Hélix, Snug </td>
-										<td>de 40€ à 65€</td>
+										<td>Anti-tragus<br><br></td>
+										<td>de 40€ à 55€<br><br></td>
 									</tr>
 									<tr>
-										<td>Conch</td>
-										<td>de 45€ à 60€</td>
+										<td>Rock</td>
+										<td>de 40€ à 55€</td>
 									</tr>
 									<tr>
-										<td>Daith</td>
-										<td>de 50€ à 65€</td>
+										<td>Snug</td>
+										<td>de 40€ à 55€</td>
 									</tr>
-									<tr>
-										<td>Industriel</td>
-										<td>de 55€ à 65€</td>
-									</tr>
+                                    <tr>
+                                        <td>Conch</td>
+                                        <td>de 45€ à 400€ <i>(gamme en or 18k disponible)</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Daith</td>
+                                        <td>de 50€ à 85€</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Industriel</td>
+                                        <td>de 55€ à 65€</td>
+                                    </tr>
 									<tr>
 										<td><h2>VISAGE</h2></td>
 										<td>&nbsp;</td>
 									</tr>
+                                    <tr>
+                                        <td>Narine</td>
+                                        <td>de 35€ à 400 € <i>(gamme en or 18k disponible)</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td>High nostril en symétrie</td>
+                                        <td>de 95€ à 165€</td>
+                                    </tr>
+									<tr>
+                                        <td>Mantis en symétrie</td>
+                                        <td>de 95€ à 165€</td>
+                                    </tr>
+									<tr>
+                                        <td>Septum</td>
+                                        <td>de 50€ à 85€</td>
+                                    </tr>
 									<tr>
 										<td>Arcade</td>
 										<td>de 45€ à 50€</td>
-									</tr>
-									<tr>
-										<td>Narine</td>
-										<td>de 35€ à 70€</td>
-									</tr>
-									<tr>
-										<td>Septum</td>
-										<td>de 50€ à 60€</td>
 									</tr>
 									<tr>
 										<td>Bridge</td>
 										<td>de 70€ à 80€</td>
 									</tr>
 									<tr>
-										<td>Bouche</td>
-										<td>de 45€ à 55€</td>
+										<td>Bouche (labret décalé, <br>labret centré,médusa et ashley) </td>
+										<td>de 45€ à 400€ <i>(gamme en or 18k disponible)</i></td>
 									</tr>
 									<tr>
 										<td>Labret vertical</td>
-										<td>de 50€ à 55€</td>
+										<td>de 50€ à 70€</td>
+									</tr>
+									<tr>
+										<td>Jestrum</td>
+										<td>de 50€ à 70€</td>
 									</tr>
 									<tr>
 										<td>Smiley</td>
-										<td>de 50€ à 60€</td>
+										<td>de 50€ à 85€</td>
 									</tr>
 									<tr>
-										<td>Langue    </td>
+										<td>Langue</td>
 										<td>45€</td>
+									<tr>
+										<td>Venom</td>
+										<td>105€</td>
 									</tr>
 									<tr>
 										<td><h2>CORPS</h2></td>
 										<td>&nbsp;</td>
 									</tr>
 									<tr>
-										<td>Nombril</td>
-										<td>de 50€ à 60€</td>
+										<td>Nombril<br><br></td>
+										<td>de 50€ à 60€<br><br></td>
 									</tr>
 									<tr>
 										<td>Téton</td>
@@ -119,12 +166,6 @@
 									</tr>
 								</tbody>
 							</table>
-							<p>* Tous nos tarifs sont piercing et bijou compris. Les prix évoluent en fonction des bijoux de perçage choisis.</p>
-						
-						<h2>PERÇAGE avec BIJOUX HAUT DE GAMME (or 18 carats et titane sophistiqué)  </h2> 
-						 De 75€ à 350€ <br>
-
-                        *Le prix évolue en fonction du bijou et non de la zone de perçage. 
 
  
 						</div>

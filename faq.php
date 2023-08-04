@@ -91,76 +91,7 @@
 							<p>Si vous avez d'autres questions, n'hésitez pas nous contacter par téléphone, mail, sur notre page Facebook ou venir nous rencontrer directement en boutique.</p>
 							
 							<br>
-							<center>TABLEAU DE CICATRISATION</center>
-							<br>
 							
-							<table>
-								<tr>
-									<td>Type de Piercing</td>
-									<td>Durée de cicatrisation</td>
-								</tr>
-								
-								<tr>
-									<td>Arcade</td>
-									<td>8 à 10 semaines</td>
-								</tr>
-								<tr>
-									<td>Bridge</td>
-									<td>3 à 4 mois</td>
-								</tr>
-								<tr>
-									<td>Smiley</td>
-									<td>4 à 6 semaines</td>
-								</tr>
-								<tr>
-									<td>Langue</td>
-									<td>4 à 6 semaines</td>
-								</tr>
-								<tr>
-									<td>Lèvre (tour de bouche)</td>
-									<td>8 à 10 semaines</td>
-								</tr>
-								<tr>
-									<td>Lobe de l'oreille</td>
-									<td>6 à 8 semaines</td>
-								</tr>
-								<tr>
-									<td>Microdermal</td>
-									<td>4 mois</td>
-								</tr>
-								<tr>
-									<td>Nez</td>
-									<td>2 à 3 mois</td>
-								</tr>
-								<tr>
-									<td>Nombril</td>
-									<td>6 à 9 mois</td>
-								</tr>
-								<tr>
-									<td>Repli d'oreille, cartilage</td>
-									<td>6 à 9 mois</td>
-								</tr>
-								<tr>
-									<td>Septum</td>
-									<td>3 à 4 mois</td>
-								</tr>
-								<tr>
-									<td>Surface</td>
-									<td>4 à 6 mois</td>
-								</tr>
-								<tr>
-									<td>Téton</td>
-									<td>3 à 5 mois</td>
-								</tr>
-								<tr>
-									<td>&nbsp;</td>
-									<td>&nbsp;</td>
-								</tr>
-								<tr>
-									<td>Génitaux</td>
-									<td>Nous consulter</td>
-								</tr>
-							</table>
 						</div>
 					</div>
 				</div>
