@@ -91,7 +91,7 @@
 							<p>Si vous avez d'autres questions, n'hésitez pas nous contacter par téléphone, mail, sur notre page Facebook ou venir nous rencontrer directement en boutique.</p>
 							
 							<br>
-							
+
 						</div>
 					</div>
 				</div>

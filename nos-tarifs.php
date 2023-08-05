@@ -72,7 +72,7 @@
 										<td>de 40€ à 55€<br><br></td>
 									</tr>
 									<tr>
-										<td>Rock</td>
+										<td>Rook</td>
 										<td>de 40€ à 55€</td>
 									</tr>
 									<tr>
