@@ -40,7 +40,7 @@
 						</div>
 						<div class="columns large-6 medium-6 small-12">
 							<div class="textes" style="padding: 35px 10px 0px 50px;">
-								<p>Implanté depuis 1992 à Bordeaux, Madison Piercing vous offre un large choix de bijoux originaux et de qualité autant pour la première pose (lorsque vous vous faites percer) que pour les modèles proposés en magasin une fois votre cicatrisation terminée.</p>
+								<p>Implanté depuis plusieurs années à Bordeaux, Madison Piercing vous offre un large choix de bijoux originaux et de qualité autant pour la première pose (lorsque vous vous faites percer) que pour les modèles proposés en magasin une fois votre cicatrisation terminée.</p>
 								<br>
 								<p>Très régulièrement vous pourrez découvrir des nouveautés en bijouterie et si vous avez une envie particulière d'un bijou et que vous ne le trouvez pas, nous pourrons voir à vous le commander. </p>
 								<br>
