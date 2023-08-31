@@ -148,7 +148,7 @@
 									</tr>
 									<tr>
 										<td>Nombril<br><br></td>
-										<td>de 50€ à 60€<br><br></td>
+										<td>de 50€ à 65€<br><br></td>
 									</tr>
 									<tr>
 										<td>Téton</td>
