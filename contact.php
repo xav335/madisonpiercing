@@ -145,11 +145,10 @@
 							<a href="tel:+33556529201" class="telephone">Tel : 05&nbsp;56&nbsp;52&nbsp;92&nbsp;01</a>
 						</p>
 						<p>
-							<strong>Infos Horaires</strong><br/>
-							
-							 Mardi : de 11h à 13h et de 14h à 18h<br/>
-							 Mercredi au samedi : de 11h à 13h et de 14h à 19h<br/><br/>
-						Dimanche et lundi : fermé
+							<strong>Infos Horaires</strong><br/><br/>
+
+							 Mardi au samedi : de 11h à 12h et de 14h à 19h<br/><br/>
+						     Dimanche et lundi : fermé
 						</p>
 						<p>
 						  Les piercings et toutes les manipulations (débouchages, stretch, retraits de piercings, mises en place de bijoux...) se font sur 
