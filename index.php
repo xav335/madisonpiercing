@@ -26,7 +26,7 @@
         	<h3  id="modalTitle">Madison Piercing - Atelier de piercing bordeaux - Bijoux</h3><br>
         	<h2  id="modalTitle"></h2>
         	"Les piercings et toutes les manipulations (débouchages, stretch, retraits de piercings, mises en place de bijoux...) 
-        	se font sur <b>RENDEZ-VOUS</b> en nous contactant <b>UNIQUEMENT</b> par téléphone au <b>05.56.52.92.01</b> du mardi au samedi à partir de 14h"
+        	se font sur <b>RENDEZ-VOUS</b> en nous contactant <b>UNIQUEMENT</b> par téléphone au <b>05.56.52.92.01</b> du mardi au vendredi de 14h à 18h"
         	 
         	<p></p>
         	<h2  id="modalTitle"></h2>
