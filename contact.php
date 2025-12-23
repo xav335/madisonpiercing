@@ -147,7 +147,7 @@
 						<p>
 							<strong>Infos Horaires</strong><br/><br/>
 
-							 Mardi au vendredi : de 14h à 18h<br/><br/>
+							 Mardi au vendredi :  11h à 13h et de 14h à 18h<br/><br/>
 						     Samedi, dimanche et lundi : fermé
 						</p>
 						<p>
